@@ -8,7 +8,7 @@ require("console.table");
 const connection = mysql.createConnection({
     host: 'localhost',
 
-    // Your port; if not 3306
+    // Your port;
     port: 3306,
 
     // Your username
